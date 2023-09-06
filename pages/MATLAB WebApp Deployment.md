@@ -1,0 +1,5 @@
+- TODO Golang backend
+- NGINX Server
+- TODO Build MATLAB Binaries for MCR in Linux Machine
+- TODO Frontend
+-

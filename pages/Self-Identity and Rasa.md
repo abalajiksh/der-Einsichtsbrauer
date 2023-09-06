@@ -1,0 +1,18 @@
+- #Fantastic-Friday [[Jul 22nd, 2022]]
+- any activity that doesn't activate love of godhead is useless
+- statements in srimad bhagavatam is about us, about the world we live in, it is about the temporary nature we live in.
+- being solidly situated in platform of self, who are you, why are you here and what are you doing here?
+- in that state, we can operate on our occupational duty
+- we are in world of maya - prison house
+- we should reconnect by process of bhakti yoga
+- our best identity comes out when we start relating with the personality of godhead
+- we have meaning on our life only when we relate with other people
+- blossoming our identity by expressing our relationship to krishna
+- Bharata Muni - natyasastra - theory of rasa
+- rasa is an exchange - occurs only with conscious living entities
+- deep analysis of why human beings do what they do?
+	- because they enjoy doing it
+- we all live for rasa
+	- we seek rasa in every relationship
+		- including relationship with cows and dogs
+- if we have relationship with krishna - we start enjoying the rasa

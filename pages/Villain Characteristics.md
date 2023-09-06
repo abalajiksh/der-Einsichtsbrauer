@@ -1,0 +1,16 @@
+## **Villain Characteristics Checklist:**
+- He’s convinced he’s the good guy
+- He has many likeable qualities
+- He’s a worthy enough opponent to make your hero look good
+- You (and your reader) like when he’s on stage
+- He’s clever and accomplished enough that people must lend him begrudging respect
+- He can’t be a fool or a bumbler
+- He has many of the same characteristics of the hero, but they’re misdirected
+- He should occasionally be kind, and not just for show
+- He can be merciless, even to the innocent
+- He’s persuasive
+- He’ll stop at nothing to get what he wants
+- He’s proud
+- He’s deceitful
+- He’s jealous, especially of the hero
+- He’s vengeful

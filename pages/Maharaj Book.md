@@ -1,0 +1,31 @@
+- consciousness, faith, religion, science, history
+	- stephen hawking brief answers to big questions
+		- ls there a God?
+		- How did it all begin?
+		- Is there other intelligent life in the universe?
+		- Can we predict the future?
+		- What is inside a black hole?
+		- Is time travel possible?
+		- Will we survive on Earth?
+		- Should we colonise space?
+		- Will artificial intelligence outsmart us?
+		- How do we shape the future?
+- Contents
+	- Faith
+	- Religion
+	- Science
+	- History
+	- Education
+	- Consciousness
+		- AI
+	- Death
+		- and living
+		- reincarnation
+- Main character - intellectual guy - fealties and fables
+- my other car is a ferrari
+- part 1 - more outside
+- part 2 - more inside
+- why is a minority a minority?
+- an ism is a prism - ism is not a monochromacy - it splits it up into so many things
+- emoji and emotions
+- moderator

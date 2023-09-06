@@ -1,0 +1,54 @@
+- {{video https://www.youtube.com/watch?v=0tMXtDYzIuM}}
+- #rc-waldun
+- "There has been a lot of freedom of thought over the past few years, but no thought. Rather like the case of a child who, not having any meat, asks for salt with which to season it."
+- speech vs writing vs obsession with certainty
+- socrates never trusted the written form
+	- plato's books are written in socratic dialogues
+	- phaedrus - athenian aristocrat
+		- socrates - does writing convey more truth to you than if i just conveyed it verbally via speech to you?
+		- socrates - egyptian myth of king Phineus and God of Writing thieweth
+			- Phineus said writing makes Egyptian stupider
+				- no need to reason on their feet
+				- no need to utilise the faculties on the spot
+				- no need to say something on the face of a person to confront something
+- writing without a father - writing without the presence of the writer cannot defend itself
+	- asking sister to buy a list of items
+		- write and hand it
+			- escapes original intention
+		- say it to her
+	- writing always has its misinterpretation element to it.
+	- speech's margin of error is narrower
+- paranoia for writing
+	- Aristotle coined writing to be defective, a symbol for speaking
+	- French Enlightenment Philosopher - Jean Jaques Rosseau - writing is dangerous supplement to speaking
+- our first instinct to learn about a topic is in the medium of speech.
+	- youtube video
+	- blog post
+	- podcast
+	- tiktok etc
+		- these sources add to the glamour and charisma of the speaker that once we take the person to be the authority, it is difficult to break out of it
+- Summer of 1965 - Jaques Derrida - cruise ship to Venice - Of grammatology book - linguistics to phenomenology to chinese alphabets to spelling systems of ancient civilizations
+	- One key themes was to resolve the dichotomy of writing and speaking
+	- trying to fix the truth to statement - try to derive objective meaning
+		- we are necessarily excluding other possible interpretations
+		- act of fixing is in a sense act of violence - you are excluding all the other possible meanings
+			- eg a taxidermist - pin down a butterfly in the board. we are getting a stable structure of the butterfly but we are excluding it's movements and natural cycles - for the sake of stable structure - a dead butterfly
+			- philosopher defining a mug - pinning down to one interpretation and excluding other ambiguities of life
+		- act of fixing makes us enter a state called Differance - a state of deferring meanings till later
+	- differance is going to give rise to aporia(Greeks coined it) - state of confusion about something
+		- aporia - state of doubting our own reason
+- process of learning by necessity should go through the state of aporia
+	- reality is lot bigger than our frame of view of the reality
+	- new information is going to throw off our world view
+		- it is a good thing
+	- but our impulse is to run to internet to find an answer
+	- Derrida prescribes to embrace the state of aporia
+	  id:: 62d18084-5970-47b3-a7a3-6b62bdb176e1
+		- deal with it
+		- think more about it
+		- read about it
+		- watch a few youtube videos
+	- once we acknowledge that we don't know about it, that is when we are most open-minded
+		- this is the perfect state of dealing with new information
+	- try to put ourself in a state of deferring the meaning for later
+		- because once we fix, we are fixed forever

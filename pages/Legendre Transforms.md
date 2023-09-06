@@ -1,0 +1,10 @@
+- #youtube-channel
+- classical and thermo - legendre teansforms
+- table
+- history of legendre transforms
+- what is it used for
+- math of legendre transform
+- example - lag to hamil
+- inverse of legendre transform
+- multiple legendre transform
+- graphical interpretation, one d and then the phase space type approach

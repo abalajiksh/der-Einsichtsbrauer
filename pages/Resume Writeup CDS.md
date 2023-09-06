@@ -1,0 +1,9 @@
+- Developed a Certificate Delivery System for The Skill Craft using Laravel 9.
+	- Wireframed the prototype of the frontend and backend using Adobe XD.
+	- Integrated Rich Text editor for ease of use.
+	- Certificates generated as PDF from given bulk data source in excel file.
+	- Automated Email delivery for verified certificates using SMTP relay.
+	- Certificate Verification and Request protected by hCaptcha.
+	- Vanilla Javascript to improve functionalities.
+	- For more stack decisions and design choices, click here.
+	- #cds

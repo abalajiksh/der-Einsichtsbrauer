@@ -1,0 +1,16 @@
+- #StreamIdeas
+- TODO MATLAB Server Hosting
+	- TODO MATLAB Runtime
+	- TODO Octave Runtime
+- TODO Calabi-Yau Manifolds in Blender + Python
+- TODO Setup AirGradient, Prometheus and Grafana
+- TODO Setup Wazuh
+- TODO Build Hyprland Config
+- TODO Build Gentoo Custom Kernel Compile for PC
+- TODO Stream Overlay and Animation Design
+- TODO NGINX Build for Multiple RMTP Streaming
+- TODO Philosophenweg Heidelberg Walk
+- TODO Vector Animation Scripting
+- TODO pfsense and openwrt setup
+- TODO C++ FCGI NGINX
+-

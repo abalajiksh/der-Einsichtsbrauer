@@ -1,0 +1,21 @@
+- #Fantasimo
+- [[Dec 17th, 2022]]
+- Secular vs Religious presentation of Krishna Consciousness
+- SN: Bhakti tirtha maharaj presentation of KC
+	- presentation is based on audience and time, place and circumstance
+- ND: USA, in god we trust, protestant christian president
+- GGD: pluralistic society, secularism is about being non-judegemental about other's beliefs
+	- let go of emotions, universal KC principles
+	- get rid of souble standards
+	- SP is more religious
+- ND: turkey parliment - secularism mistaken for anti-religion
+- GGD: The cannot go even to the mosque to pray and must wear burka (veil) whenever they have to go out. These burka women walking in the streets is a one of the most hideous sights one can witness in India. Dr. Ambedkar.
+- BVSM: reality without god factor - science.
+	- colonialism and secularism
+	- preaching to non-religious audience
+- GGD: Devotees having two faces
+- BVSM: take ideas and terms from west, fit it in our ideas and stuff and struggle
+	- why grapple with western stuff?
+- ND: "Control language and you control thought; control thought and you control action; control action and you control the world". Peter Kreeft
+- BVSM: west is about power and control, british pushing christianity
+- ND: george harrison shaving head and SP's choice for him

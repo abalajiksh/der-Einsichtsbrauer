@@ -1,0 +1,22 @@
+- #Fantastic-Friday [[Jul 15th, 2022]]
+- krishna-arjuna-draupati view of ashwatama
+	- krishna and arjuna - scripture
+	- draupati - custom
+- what is respect?
+	- providing necessary recognition and exercising it
+- a person who doesnt respect himself finds it difficult to respect others
+	- disrespect for others spring from disrespect of ourselves as spirit soul
+	- high class id - spirit soul
+- high self-worth - spirit soul - want others also to have it
+- foundational basis for respect
+- connection with krishna makes it respect worthy
+- on material level - a brahmana is respected because he brings valuable knowledge to society
+- brahmana also follows it - yajana yaajana patana paatana dana etc
+- anyone who follows vedic culture - he is respected because it is krishna's instructions
+- if a person is not connected to krishna - he is not respect worthy
+- foundational respect - trying to serve krishna
+- anyone who tries to understand absolute truth - he is worthy of respect - even if he tries in his own way
+- our own perspective on seniors reflect our consciousness and it will affect it if we don't do it properly
+- punishment is not sadistic and masochistic subtle satisfaction, it is not about false-ego, it is about the correction for the mistake. father punishing son is for his love of son.
+- sakshi gopal - story about the culture of respect
+-

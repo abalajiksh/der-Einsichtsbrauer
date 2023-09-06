@@ -1,0 +1,10 @@
+- #cds
+- Why did you choose php for this project? Why did you choose laravel framework? why laravel compared to traditional php+mysql application? advantages of ORM.
+- The constraints of database design and schema finalization.
+- simple crud application with extended functionalities, why write from scratch?
+- Adobe xd vs figma for prototyping?
+- security measures to secure from DDos attacks? what is ddos attack?
+- rich text editor choice?
+- email automation?
+- social sharing.
+- what are the features you might improve upon if given another chance?

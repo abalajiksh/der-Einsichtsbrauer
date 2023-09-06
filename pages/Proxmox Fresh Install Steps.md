@@ -1,0 +1,20 @@
+- `nano /etc/apt/sources.list`
+	- `deb http://download.proxmox.com/debian buster pve-no-subscription`
+- `nano /etc/apt/sources.list.d/pve-enterprise.list`
+	- `# deb https://enterprise.proxmox.com/debian/pve buster pve-enterprise`
+- `apt-get update`
+- `apt dist-upgrade`
+- clear empty disks off of it's partitions
+	- `fdisk /dev/sda` make note of the list of disks that is going to be used
+	- `p`, `d`, `9`, `p`, `d`, `w` for all the available disks
+- SMART Monitoring `smartctl /dev/sda`
+- turn on `IOMMU` for PCIe passthrough
+	- `nano /etc/default/grub`
+		- `#GRUB_CMDLINE_LINUX_DEFAULT="quiet"` `GRUB_CMDLINE_LINUX_DEFAULT="quiet amd_iommu=on"` `GRUB_CMDLINE_LINUX_DEFAULT="quiet intel_iommu=on"`
+	- `update-grub`
+	- `nano /etc/modules`
+		- `vfio`, `vfio_iommu_type1`, `vfio_pci`, `vfio_virqfd`
+	- `reboot`
+- VLAN Aware
+- Add NFS Shares
+- Schedule Backups

@@ -1,0 +1,29 @@
+- [[Jul 8th, 2022]]
+- #Fantastic-Friday
+- Does a person in womb is alive?
+	- A case ongoing.
+		- In a 6:3 ruling, the US Supreme Court overturned the [**1973 landmark decision of Roe v. Wade**](https://www.indiatoday.in/world/story/roe-vs-wade-us-supreme-court-overrules-landmark-judgement-abortion-ban-1966548-2022-06-25) on the issue of abortion, a verdict that is likely to have large-scale ramifications in the country. Almost 50 years after an American woman’s constitutional right to abortion was recognized, the US Supreme Court has effectively eliminated the right altogether, allowing states to enforce a ban on abortions.
+		- These criteria also vary depending on the stage of pregnancy you are in: A pregnancy may be terminated up to 12 weeks based on the opinion of one doctor. If the weeks exceed 12 and are less than 20, it requires the opinion of two doctors.
+	- Silent Scream video.
+		- prochoice vs prolife
+		- prochoice - pregnant women having power to decide to kill or birth the child
+		- prolife - the babe is another life, pregnant woman can't decide the babe's fate.
+- When is fetus alive? Should conscious awarness be necessary?
+- Moral and ethical problems.
+- Leaders of society - judgements on people's lives, play around with it, reverse it etc. clueless leaders
+- Soul is forever living.
+- Whose life is the child's life? No one answers such questions. Did you ask the child about his willingness to live?
+- Everybody thinks that they have the right to exercise choice, but shouldn't do so stupidly.
+- They just want to do what they want to do it. If we logically oppose, we get tagged. We just have to accept it.
+- Child's mother planned to kill him in her womb. The son grew up insecure all his life hating her. Mother stopped abortion because someone convinced her not to. So, mother's thoughts grew hatred in child's mind.
+- Right to life is different from right to birth.
+- Similar to contraception ethics, a man locked out of his rented apartment analogy. Rent apartment, let the man in , murder him there - abortion. Just like the Netflix You Series, Joe Goldberg murdering people by locking them up in his cage.
+- Giriraja Pr
+	- Vedic scriptures recommend having a son but not daughter. Many rituals require a son to perform. Even in Srila Prabhupada's writings one sees the purpose of marriage is to have son. This also leads to aborting females, especially in region of Haryana.
+	- So Vedic scriptures shud also take a blame because of stigma propagated.
+	- This is modern interpretation. One son 99 daughters is also ok. Just that a putra can do some rites for the parents to save them karmically is the reason for scriptures to recommend a son for grham. putra hinam grham sunyam.
+	- The fact that a son can do a rite for parents itself sets the difference and preference on male over females. - uncontested
+		- This idea of preference for son doesn't mean non-preference for daughter. so it is not a bivalent/binary logic. is this one instance of tetralemma?
+- Nandeep pr
+	- suicide? does a person have the right to his own life?
+		- it is carried out by karma, he has no choice.

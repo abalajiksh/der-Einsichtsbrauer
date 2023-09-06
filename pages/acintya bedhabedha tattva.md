@@ -1,0 +1,4 @@
+- cm waste pot pastime
+- cm sg atmarama verse
+- prabhupada analogy
+- parallels from the advaita and dvaita wikipedia pages

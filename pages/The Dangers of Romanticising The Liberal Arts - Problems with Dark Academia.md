@@ -1,0 +1,26 @@
+- {{video https://www.youtube.com/watch?v=9OS46W4l8so}}
+- {{renderer :linkpreview,https://medium.com/the-collector/the-dangers-of-romanticizing-the-liberal-arts-d900684e5581}}
+- #rc-waldun
+- dangers of subscribing to mainstream ideas about liberal arts
+- dangers of seduction of liberal arts, literature, philosophy etc fields by influencers
+- derrida - deconstruction - french philosopher
+	- when reading - we look for objective meaning
+	- 2002 - deconstruction of philosophical literature - ironic forms of storytelling - analogy/parallel? asked by journalist
+		- seinfeld - a sitcom whose protagonist searches for meaning
+		- switch of tv, do the homework and read
+	- dangers of popularizing content in mainstream
+- academic concepts - do not popularize
+- "The reasonably diligent study of [the liberal arts] over a period of years, **under the guidance of an experienced tutor**, will develop in you a critical and sceptical habit of mind which will be of service to you in assessing whatever you hear or read." P. Strawson, Why Philosophy?
+	- train the brain to make coherent sense of an information presented to us
+	- knowledge work opens us up to new possibilities that we never thought about in the first place
+- Influencers $\neq$ Professors
+	- Problem of Received Ideas
+	- Christopher Bell - A dictionary of Received Ideas
+	- newspapers - arm stupidity and giving authority to force
+	- popularizes the partial readings of wholly comprehendable concepts, it shrinks it down and that circulates everywhere
+	- social media is shifting the where is the idea from to the presentation of the presenter
+		- the presenter aesthetics is more appreciated than the idea itself.
+		- presentation aesthetics creates an illusion of authority over the subject discussed
+		- forget the true source of the idea
+- The real work of engaging with liberal arts is very much many hours of unglamorous work.
+- reading philosophy is not always sunshine and butterflies, there is a period of banging heads, losing grip to reality etc, and taking ourselves to authority to learn from them

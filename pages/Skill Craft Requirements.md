@@ -1,0 +1,5 @@
+- #the-skill-craft
+- whatsapp automation, selenium and python
+- museum - duh??
+	- hadoop vs spark vs kafka vs hdf5
+-

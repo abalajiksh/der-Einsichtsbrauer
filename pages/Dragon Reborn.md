@@ -1,0 +1,3 @@
+- #The-Wheel-of-Time
+- “Rumor.” Thom rubbed the side of his nose; he seemed to be studying the stones board and talking to himself. “No one can keep rumors from reaching Morgase’s ears, and if she hears it strongly enough, she will start to wonder. Rumor is the voice of the people, and the voice of the people often speaks truth.
+- Robert Jordan. The Dragon Reborn (Kindle Locations 8820-8822). Tom Doherty Associates.

@@ -1,0 +1,2 @@
+- #CloserToTruth
+- {{video https://www.youtube.com/watch?v=gC89qb3fdqE}}

@@ -1,0 +1,133 @@
+{
+  "main": {
+    "id": "5e723b116d15ec4c",
+    "type": "split",
+    "children": [
+      {
+        "id": "7a14484e398456e1",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "pages/Fantasimo - Session 1.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "fa047f364c5e83bb",
+    "type": "split",
+    "children": [
+      {
+        "id": "2ed2df1169310c33",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6f77f50d01be46e2",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "b5b8e28ac37fc6d5",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "fantas",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "52f1fb0e3990c3c7",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "0dc0efd11bab2e7f",
+    "type": "split",
+    "children": [
+      {
+        "id": "cf7bd616c5c0a798",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "855027bb12cd86a1",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "pages/Fantasimo - Session 1.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "8d9b731d3ad2ecd4",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "bda040fdce987b41",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "pages/Fantasimo - Session 1.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "7a14484e398456e1",
+  "lastOpenFiles": [
+    "pages/The Dangers of Romanticising The Liberal Arts - Problems with Dark Academia.md",
+    "pages/nginx.md",
+    "pages/Ethics of Abortions.md",
+    "pages/Events and Nature of Time.md",
+    "Bins/PolyMath.md",
+    "Bins/Absolute Truth.md",
+    "Bins/absurdism.md",
+    "Bins/Bohmian Mechanics.md",
+    "Bins/Causal Structures.md",
+    "Bins/Causality.md"
+  ]
+}

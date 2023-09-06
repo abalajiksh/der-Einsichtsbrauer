@@ -1,0 +1,36 @@
+- Enable automatic updates
+	- `apt update`
+	- `apt dist-upgrade`
+	- `apt install unattended-upgrades`
+	- `dpkg-reconfigure --priority=low unattended-upgrades`
+- Create a limited user account
+	- `adduser abalaji`
+	- `usermod -aG sudo abalaji`
+- Passwords are old school - use SSH Keys
+	- `mkdir ~/.ssh && chmod 700 ~/.ssh`
+	- `ssh-keygen -b 4096`
+	- upload the public key to the remote system
+		- Windows: `scp $env:USERPROFILE/.ssh/id_rsa.pub abalaji@IP_ADDRESS:~/.ssh/authorized_keys`
+		- Linux: `ssh-copy-id abalaji@IP_ADDRESS`
+		- Mac: `scp ~/.ssh/id_rsa.pub abalaji@IP_ADDRESS:~/.ssh/authorized_keys`
+- Lockdown logins
+	- `sudo nano /etc/ssh/ssh_config`
+		- `#Port 22` -> `Port 777` or any port for that matter.
+		- `#AddressFamily any` -> `AddressFamily inet` setting it to IPV4 only.
+		- `PermitRootLogin yes` -> `PermitRootLogin no`
+		- `PasswordAuthentication yes` -> `PasswordAuthentication no`
+	- `sudo systemctl restart sshd`
+	- `ssh abalaji@IP_ADDRESS -p 777`
+- Firewall it up
+	- `sudo ss -tupln`
+	- `ufw` -> uncomplicated firewall
+	- `sudo apt install ufw`
+	- `sudo ufw status` -> `Status: inactive`
+	- `sudo ufw allow 777`
+	- `sudo ufw enable`
+	- `sudo ufw allow 80/tcp`
+- Disable `ping` to be hidden
+	- `sudo nano /etc/ufw/before.rules`
+		- `# ok icmp codes for INPUT`
+		- `-A ufw-before-input -p icmp --icmp-type echo-request -j DROP`
+	- `sudo ufw reload`

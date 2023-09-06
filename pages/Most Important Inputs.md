@@ -1,0 +1,7 @@
+- Paper Books, High Volume, High Value
+- Ebooks, High Volume, High Value
+- YouTube Videos, High Volume, Low Value
+- Chats Low Volume, Low Value
+- Thoughts High Volume, High Value
+- Podcasts(probably) Low Volume, High Value
+- Phone Call Discussions Low Volume, High Value

@@ -1,0 +1,25 @@
+title:: John Searle - Can a Person be a Soul?
+
+- #CloserToTruth
+- {{video https://www.youtube.com/watch?v=Bq2bfSzkTfU}}
+- let's leave the hidden religious hidden agenda for a moment!! goes straight to the point
+- GGD: In ISKCON we talk about the price we pay for not beleiving in soul....
+- 1. do we have nay reason to suppose, in addition to all the phenomena of our conscious life, all the stuff we're aware of, that there is something called soul, in which all this occurs? he claims he hasn't seen any solid arguments for necessity of existence of soul in addition to obvious facts of consciousness
+  2. how would it fit in, it is hard to make sense of, how to make sense of soul present in physical world?
+  a map from conscious mindful rational agents to atomic physics and molecular biology
+- i think the second question we have a rough model to describe how soul fits into material world, the ties due to false ego, field of activities etc. first question is genuine and i don't think we have solid reasons to suppose the existence of soul other than religious/scriptural testimony. the subtle distinction he makes between symbol manipulations and causality could be the key to show consciousness arising from brain functions, and if that is the case all religionists either have to accept defeat or show flaws in the hypothesis which will be impossible unless they practice both philosophy and math. simply arguing back and forth maybe good for intellectual sense gratification, but I think if we have to present our model of soul and consciousness, we have to work with math and philosophy to show how it is relevant. we can't claim we have all philosophy with us. i say we have none. all we have is a bunch of axioms(or seems to be)
+- and first and foremost, the claim that we have to present our all-encompassing body of knowledge in their terminology is just a scam. they are far more advanced in terms of rigour and precision where we have none(except when it comes to deriding them). i say we have to upgrade our tools and arguments to atleast level with them(not coming down to their level but going up), then let's think exceeds expectations, shall we?
+- 1. one question against the first question is difference between living and dead. we can't explain this difference, we can only see the emergent difference due top living and dead as described in this paper
+- ![life-and-death-1928.pdf](../assets/life-and-death-1928_1665728173516_0.pdf)
+- GGGD:
+- Watched this video end to end. Mr John Searle seems to base his thesis on two arguments:
+- 1. I am consciousness, and consciousness is the human hardware plus software in action. There is no need to account separately for "conscious experience"; that's already included in the deal. In other words, conscious experience is the perception of the software/hardware combo, experienced by the software/hardware combo, for the software/hardware combo.
+- 2. If there were a "spiritual" energy that is inexhaustible like a perpetual motion machine, which enters matter and powers the material software/hardware, this hypothesis will contradict 300 years of science that considers "conservation of energy" as an inviolable natural law.
+- My reflections on the two points:
+- 1. The argument first tries to overwrite the word "soul" with "consciousness", and then, tries to explain consciousness in reference to itself. From the causal perspective, the description looks like the self-referencing definition of democracy "of the people, by the people, for the people". This definition may work for collective nouns (e.g. democracy) when the nuanced groups of individuals that actually populate the "of", "by", and "for" segments of a real-life democracy are intentionally left undefined. And from an ontological perspective, I couldn't find any credible explanation.
+  2. This argument seems to be making science into a religion - scientism. Those who do not believe in the 300-year-old law of conservation of energy are "heathens"! Well, someone dared to question the laws of classical mechanics, and we were blessed with relativistic and quantum mechanics. Science has always dared to think beyond its frontiers when it comes to various laws. Then why hold the law of conservation of energy alone as sacrosanct?
+- GGD:
+- 1) His point is that Consciousness doesn't warrant the existence of soul. Besides, wont a person advocating the idea of soul also end up self referencing ?
+- 2) If theory of soul is going to bring a revolutionary change in physics as Quantum mechanics did to classical mechanics, then all scientista will definitely welcome the idea of soul. But that has not happened yet, right ? By being merely open minded, if a scientific theory on soul is somehow going to be manifested, then why in 300 years there is no viable hypothesis for proving existence of soul ? John Searle has a point there.
+- ![sheldrake1974.pdf](../assets/sheldrake1974_1665728202378_0.pdf)
+-

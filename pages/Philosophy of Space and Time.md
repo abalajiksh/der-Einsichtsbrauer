@@ -1,0 +1,74 @@
+- Hans Reichenbach
+- §28
+	- Congruence is a matter of definition
+	- Length and extension
+	- Extension is a topological concept
+	- Whether or not there is an extension is determined by coordinate system.
+	- What length is to be coordinated to a geometrical element is not determined by the coordinate system.
+	- Measurement of length characterises the behavior of measuring instruments.
+- §29
+	- timelike - follow one another in time
+	- spacelike - indeterminate as to time order
+	- choosing time axis determines the state of the motion of the coordinate system.
+	- choosing a spacelike line (spaceaxis) represents a particular definition of simultaniety.
+	- conjugate diameters of hyperbola! for ϵ = 1/2 as definition of simultaniety. (t2 = ϵ(t3 - t1) + t1)
+	- erroneous conception that there is a relation between the relativity of simultaniety and relativity of motion.
+	- space axis can be rotated independently of the time axis is the new conception in indefinite metric.
+- §30
+	- classical theory of time - moving clock measures the coordinate time
+	- relativistic theory of time - measures the interval
+	- Kopff - Grundzüge der Einsteinschen Relativitätstheorie p.117-189 - resolution of moving and stationary clock paradox
+	- W.Müller's poem - „Der Mönch von Heisterbach“
+- §31
+	- AB = AC when line ABA = ACA (only in rest frame)
+	- *tertium comparationis*
+	- Einstein rod versus Lorentz Rod
+		- Einstein - simultaniety to γ-1
+		- Lorentz - γ-1 - contraction of moving rod is *ad hoc*
+	- Michelson Experiment
+		- proves that a rod which lies along the direction of the motion is shorter than it should be according to classical theory, „if it is measured relative to the rest-system“
+	- Lorentz contraction - compares rods under „the same conditions of measurement“ relative to „different theories“.
+	- REVISIT THIS SECTION - READ IN DETAIL - WRITE BLOG POST #BlogThis
+- §32
+	- READ AGAIN - COMPLETELY STUMPED
+- §33
+	- empirical law - cannot be determined „*a priori*“
+- §34
+	- Leibniz - *principle of identity of discernibles*
+		- theory of relativity of motion
+		- kinematic relativity
+		- rest and motion are relative only, no absolutism!
+	- cosmologies of Copernicus and Ptolemy are kinematically identical.
+		- dynamic problem of motion
+	- Newton
+		- apparent motion of observable body + measure of effective force = absolute motion of the body
+		- With the aid of the laws of the dynamics we can therefore determine the state of the motion of the unobservable absolute space in terms of observable phenomena.
+		- distinguishing real and apparent motion - 2 disks experiment - not always obvious but it is the task of mechanics to develop methods to distinguish real and apparent.
+	- *aequipollentia hypothesium*
+	- there is more in nature than what geometry can determine (force it is!)
+	- Pail Experiment - Ernst Mach - Newton - Rotating Cup/Bucket with water.
+		- centrifugal force is a dynamical gravitational effect of rotating masses - Ernst Mach.
+		- Relativity can be extended to dynamics if forces are reinterpreted relativistically.
+		- Invariants(Charge & Entropy) and Covariants(velocities)
+	- if conditions are realized which are assumed by Newton, there exists absolute space, but its state of motion cannot be determined.
+	- Mach's (and Einstein's) relativity theory of dynamics is based on superposition of two principles, one epistemological, one empirical.
+		- Epistemological Principle - Every Phenomenon is to recieve the same interpretation from any given moving coordinate system.
+			- Do not single out any state of motion.
+		- Empirical Principle - All Physical Phenomena depend only on the relative position of bodies and not on the positions of these bodies in space.
+			- Two similar systems differently oriented in space must show the same physical phenomena.
+- §35
+	- Which system is at rest? cannot be answered. not dealing with failure of knowledge but with a logical impossibility
+		- coordinative definition of rest
+	- one description may be simplest for some phenomena while a different description may be simplest for others; but no simple description is distinguished from other descriptions with regard to truth. The concept of truth does not apply here, since we are dealing with definitions.
+- §36
+	- dynamic vs epistemological relativity
+	- The equivalence of inertia and gravity is the strict formulation of Mach's principle in the narrower sense.
+	- Within mechanics there exist no difference between the two kinds of inertial systems. If we take into account, extra mechanical phenomena, there will be difference.
+	- Whereas according to Newton the astronomical inertial systems form the normal systems for all phenomena, Einstein maintains that it is the local inertial systems which form the normal systems.
+	- The principle of local inertial systems: local inertial systems are these systems in which the light- & matter-axioms are satisfied.
+- §38
+	- The limiting character of the velocity of light can be maintained even in GTR, yet the assertion is formulated differently.
+		- Given 2 mass points, light signals will be the fastest connection between them. Light is the fastest messenger.
+	- Not all kinematically possible systems can be realised by material structures at rest relative to them. We must therefore distinguish between real and unreal systems.
+		- Ex: Neptune moves faster than c w.r.t rotating earth.
+	- The cause-effect relation is not a covariant but an invariant concept.

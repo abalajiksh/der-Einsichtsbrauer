@@ -1,0 +1,33 @@
+- {{video https://www.youtube.com/watch?v=nNTr41vj2c4}}
+- Jurgen Habermas's Essay, "Philosophy as Stand-in and Interpreter"
+	- Kant's thoughts on Role of Philosophy when Physics was doing a better job in 18th Century.
+	- Kant's Roles for Philosophy
+		- Usher - *Platzanweiser*
+			- Philosophy should provide foundation for sciences
+		- Judge
+			- Decide boundaries for people's works
+- Habermas thinks Kant's roles are bad roles for philosophy
+- Collapse of Master Narratives like Kant's Foundationalism and Hegel's Absolutism
+- Pickup the broken modest pices to fix like critical theory
+- Farewells to Philosophy
+	- Therapeutic
+		- wastes its time on ridiculous abstract metaphysical questions that nobody could possibly answer
+	- Heroic
+		- fundamentally dismantle philosophy in its roots - like heidegger's being
+	- Salvaging
+		- preserve philosophy as historical study
+- Philosophy has a Key Role to Play
+	- That is, they become *sufficient unto themselves*. It is at this point that abnormal discourses take on the quality that Rorty calls "edifying." According to him, philosophy as a whole verges on edifying conversation once it has sloughed off all pretensions to problem solving. Such philosophical edification enjoys the benefits of all three types of farewell: therapeutic relief, heroic overcoming, and hermeneutic reawaking. It combines the inconspicuously subversive force of leisure with an elitist notion of creative linguistic imagination and with the wisdom of the ages. The desire for edification, however, works to the detriment of the desire for truth: "Edifying philosophers can never end philosophy, but they can help prevent it from attaining the secure path of a science."
+	- Desire for Edification is not the Desire for Truth
+- Habermas's own view
+	- argumentative discourses
+	- both science and philosophy are in shaky grounds because it lies in communicative discourse
+	- and in that tension, we are able to find the truths
+- Two New Roles:
+	- Stand-in - _Platzhalter_
+		- placeholder, stand-in for empirical sciences for universalistic claims but for claims that sciences cannot defend themselves
+	- Interpreter
+		- translate between the disciplines
+		- it is a good communicator
+			- spectrum, not just the fruits of science and technology. As far as philosophy is concerned, it might do well to refurbish its link with the totality by taking on the role of interpreter on behalf of the lifeworld. It might then be able to help set in motion the interplay between the cognitive-instrumental, moral-practical, and aesthetic-expressive dimensions that has come to a standstill today like a tangled mobile. This simile at least helps identify the issue philosophy will face when it stops playing the part of the arbiter that inspects culture and instead starts playing the part of a mediating interpreter.
+- ![Philosophy as Stand-in and Interpreter.pdf](../assets/Philosophy_as_Stand-in_and_Interpreter_1665728225151_0.pdf)

@@ -1,0 +1,17 @@
+- #Fantasimo
+- **Who is the heretic? Galileo or the Church?**
+	- **An epic battle between reason and faith**
+- What is the nature of faith in science and religion?
+- What is the nature of reasoning in science and religion?
+	- thought terminating cliches in religion and how it stops an individual from reasoning within religion?
+	- fanatic faith on extravagant theories(that never stood the scrutiny of tests of scientific method) like string theory and the justification for it's existence?
+- What makes religion a FBO and scientific enterprise otherwise?
+- What is the epistemological difference between the truth seeking in science and religion?
+- The Tools of Trade
+	- Is Faith/Belief beyond reasoning?
+	- Limitations of reasoning
+- What is the source of premiss or hypothesis in the religion and science?
+- Is religion playing a role of leading people to a particular lifestyle by setting itself to particular framework? Is that a necessary for religion?
+- Is the constant flux of concepts in science and philosophy a reason for people to favour natural sciences over religion? Because they get to decide what is what instead of being told?
+- How do we reconcile the absolute and relative truths in Science? Is there a scope for such an endeavour?
+- Can science and religion work together to reach a better understanding of the world and our purpose here? Are they a dichotomy or overlapping enterprises?

@@ -1,0 +1,9 @@
+- https://vedabase.io/en/library/sb/9/5/7/?query=manifest#bb53581
+- https://vedabase.io/en/library/sb/3/10/12/?query=unmanifest+energy#bb22239
+- https://vedabase.io/en/library/sb/7/2/37/?query=unmanifest+energy#bb44669
+- https://vedabase.io/en/library/sb/6/4/47/?query=unmanifest+energy#bb40981
+- https://vedabase.io/en/library/sb/4/31/16/?query=unmanifest+energy#bb35749
+- https://vedabase.io/en/library/sb/3/11/4/?query=unmanifest+energy#bb22339
+- https://vedabase.io/en/library/sb/3/26/9/?query=unmanifest+energy#bb25800
+- https://vedabase.io/en/library/sb/12/7/18/?query=unmanifest+energy#bb85063
+- https://vedabase.io/en/library/sb/3/15/3/?query=unmanifest+energy#bb23337

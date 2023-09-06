@@ -1,0 +1,19 @@
+- move register page to admin section
+- add captcha for admin login
+- add tables for view stuff, add pagination too, and filters too
+- change the design for the view a particular record
+- popup for a successful request message
+- course rating is a float not int
+- not all tags are compulsory, 2 tags can be required, 2 can be optional
+- no requests pending can be in center
+- requests must be in table, a button for sending, server side authentication for existence of the certificate
+- view certificate
+- twitter
+- smtp-driver
+- copyright and center align - certificate page
+- generate certificate, view certificate
+- sample excel
+- send mail/ certificate - requested vs newly generated
+- certificate view- course description box
+- count number of certificate verifications
+- #cds
