@@ -1,0 +1,9 @@
+- TODO Discuss Reichenbach's Special Relativity Axiomatization
+- TODO Kant Critique
+- TODO Foundation Series
+	- TODO Trevize, Pelorat and Psychohistory, Faith
+	- TODO Overall Review
+- TODO Numerical Relativity
+- TODO CMBR Data
+- TODO James Webb Data
+- TODO Gravitational Waves
