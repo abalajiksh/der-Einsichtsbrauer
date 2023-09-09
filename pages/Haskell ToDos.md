@@ -1,0 +1,8 @@
+- TODO Check the compiler design for Haskell
+- TODO Implement cool programs to demonstrate physics
+	- TODO Print all possible values of the last line length of tetrahedron given 4 areas and volume as a constraint
+- TODO How to use Haskell in Blender
+	- Call Haskell functions from within Python
+		- Can I compile haskell into a redistributable binary?
+			- I can create a cli and call it from python.
+		- Is there Haskell Python bindings library?
